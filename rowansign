@@ -1,0 +1,101 @@
+.rossacca {
+  width: 350px;
+  height: 163px;
+  overflow: hidden;
+}
+
+.rossacca01 {
+  width: 350px;
+  height: 35px;
+  background-color: #003300;
+  border-top: 20px solid #554236;
+  font-family: Cambria;
+  padding-top: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #000;
+}
+
+.rossacca02 {
+  width: 338px;
+  height: 150px;
+  background-size: cover;
+  border: 6px solid #2E2E2E;
+  transition: all .7s ease-in-out;
+  -moz-transition: all .7s ease-in-out;
+  -webkit-transition: all .7s ease-in-out;
+  ms-transition: all .7s ease-in-out;
+  -o-transition: all .7s ease-in-out;
+}
+
+.rossacca03 {
+  width: 338px;
+  height: 150px;
+  position: relative;
+  top: 200px;
+  background-color: transparent;
+  transition: all .7s ease-in-out;
+  -moz-transition: all .7s ease-in-out;
+  -webkit-transition: all .7s ease-in-out;
+  ms-transition: all .7s ease-in-out;
+  -o-transition: all .7s ease-in-out;
+}
+
+.rossacca04 {
+  width: 270px;
+  height: 120px;
+  position: relative;
+  top: 30px;
+}
+
+.rossacca05 {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  position: relative;
+  right: 90px;
+  bottom: 15px;
+  background-size: cover;
+}
+
+.rossacca:hover .rossacca03 {
+  position: relative;
+  top: 0px;
+  opacity: 0.9;
+  transition: all .7s ease-in-out;
+  -moz-transition: all .7s ease-in-out;
+  -webkit-transition: all .7s ease-in-out;
+  ms-transition: all .7s ease-in-out;
+  -o-transition: all .7s ease-in-out;
+}
+
+.rossacca06 {
+  width: 62px;
+  height: 10px;
+  background-image: url(http://i.imgur.com/OKmE0ma.png);
+  border-bottom: 2px solid #554236;
+  position: relative;
+  bottom: 40px;
+  left: 35px;
+  font-family: Verdana;
+  font-size: 6px;
+  color: #EDEDED;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 1px;
+  line-height: 12px;
+}
+
+.rossacca07 {
+  width: 210px;
+  height: auto;
+  font-family;
+  cambria;
+  font-size: 9px;
+  color: black;
+  text-align: justify;
+  position: relative;
+  bottom: 20px;
+  letter-spacing: .5px;
+  line-height: 13px;
+}
